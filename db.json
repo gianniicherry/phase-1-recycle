@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "description": "2019 Macbook Air",
+      "item": "Laptop",
+      "brand": "apple",
+      "working": "Yes",
+      "weight": "2.8 lbs"
+    },
+    {
+      "id": 2,
+      "description": "Samsung Galaxy S6",
+      "item": "Smartphone",
+      "brand": "samsung",
+      "working": "Yes",
+      "weight": "0.4 lbs"
+    },
+    {
+      "id": 3,
+      "description": "2017 Apple Ipad",
+      "item": "Tablet",
+      "brand": "Apple",
+      "working": "Yes",
+      "weight": "1.5 lbs"
+    },
+    {
+      "description": "2021 Macbook Pro 15inch",
+      "item": "Laptop",
+      "brand": "Apple",
+      "working": "Yes",
+      "weight": "9",
+      "id": 21
+    },
+    {
+      "description": "Old apple watch",
+      "item": "Laptop",
+      "brand": "Apple",
+      "working": "No",
+      "weight": "0.3",
+      "id": 22
+    },
+    {
+      "description": "old HP laptop",
+      "item": "Laptop",
+      "brand": "Other",
+      "working": "No",
+      "weight": "5.6",
+      "id": 23
+    }
+  ]
+}
